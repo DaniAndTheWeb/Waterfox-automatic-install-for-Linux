@@ -1,0 +1,1 @@
+# Waterfox-automatic-install-for-Linux
