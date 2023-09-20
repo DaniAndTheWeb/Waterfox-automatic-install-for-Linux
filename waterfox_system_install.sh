@@ -67,8 +67,8 @@ printf '\n\n%s\n\n' "Please wait. I am downloading the latest version of Waterfo
 sleep 4
 
 # Define the file to download
-url="https://cdn1.waterfox.net/waterfox/releases/G6.0b5/Linux_x86_64/waterfox-G6.0b5.tar.bz2"
-file="waterfox-G6.0b5.tar.bz2"
+url="https://cdn1.waterfox.net/waterfox/releases/G6.0b5/Linux_x86_64/waterfox-G6.0.tar.bz2"
+file="waterfox-G6.0.tar.bz2"
 
 # Function to download with wget or curl, depending on availability
 download_with_wget_or_curl() {
